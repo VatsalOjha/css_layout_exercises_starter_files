@@ -1,0 +1,35 @@
+main {
+	width: 800px;
+	height: 500px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 0px;
+}
+main div {
+	border: 1px solid black;
+}
+.inner_one {
+	display: inline-block;
+	width: 50%;
+	height: 200px;
+}
+.inner_two {
+	display: inline-block;
+	width: 33.33%;
+	height: 300px;
+}
+.green_box {
+	background-color: green;
+}
+.blue_box {
+	background-color: blue;
+}
+.gray_box {
+	background-color: gray;
+}
+.black_box {
+	background-color: black;
+}
+.yellow_box {
+	background-color: yellow;
+}
